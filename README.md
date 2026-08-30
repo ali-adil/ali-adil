@@ -1,16 +1,36 @@
-## Hi there 👋
+👋 Hi, I'm Ali Adil
 
-<!--
-**ali-adil/ali-adil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 DevOps / Cloud Engineer
 
-Here are some ideas to get you started:
+About Me
+├── 🌱 Currently learning DevOps
+├── ☁️ AWS
+├── 🐳 Docker
+├── 🏗️ Terraform
+├── 🔄 CI/CD
+└── 🐧 Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+├── Cloud: AWS
+├── Infrastructure: Terraform
+├── Containers: Docker
+├── CI/CD: GitHub Actions
+├── OS: Linux
+├── Version Control: Git & GitHub
+└── Monitoring: CloudWatch
+
+🚀 Featured Projects
+├── AWS Full-Stack Deployment
+├── Terraform Infrastructure
+├── Dockerized Application
+├── CI/CD Pipeline
+└── AWS Cloud Projects
+
+📜 Certifications
+├── AWS Cloud Practitioner Essentials
+└── Other certifications
+
+📫 Connect With Me
+├── LinkedIn
+├── GitHub
+└── Email
